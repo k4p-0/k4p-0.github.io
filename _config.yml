@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: dark
+theme_mode: #leave blank because of bug revert to 'dark' when it is fixed
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
